@@ -1,0 +1,8 @@
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Seguridad vial",
+  "descripcion": "Los residentes reportan que el semáforo de la avenida principal no funciona correctamente, lo que ha causado confusión y riesgo de accidentes en las horas pico."
+}
+
+esa es mi incidencia creada y si me confirma que funciona correctamente

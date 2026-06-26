@@ -1,0 +1,11 @@
+
+la respuesta esperada es la misma que la correcta, esto me afirma que el servidor esta funcionando
+correctamente y su respuesta fue:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+donde el estado recibe los datos, el nombre es maria y el mensaje es Hola comunidad.
